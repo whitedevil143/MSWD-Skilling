@@ -1,5 +1,3 @@
-# Live URL
-https://piyali-ecommerce.herokuapp.com
 
 login credentails
 ```
